@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\VS 2022\\Analys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|Solution Items{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|D:\\Projects\\VS 2022\\Analys\\.editorconfig.strict||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|Solution Items{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|solutionrelative:.editorconfig.strict||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|Solution Items{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|D:\\Projects\\VS 2022\\Analys\\.editorconfig.base||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|Solution Items{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|solutionrelative:.editorconfig.base||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315A11A6-DA6C-4118-A52F-AFA730EA7814}|Todo.Core.Tests\\Todo.Core.Tests.csproj|d:\\projects\\vs 2022\\analys\\todo.core.tests\\todolisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315A11A6-DA6C-4118-A52F-AFA730EA7814}|Todo.Core.Tests\\Todo.Core.Tests.csproj|solutionrelative:todo.core.tests\\todolisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991A2ABA-8E7D-4434-A44E-40ABBF419263}|Todo.Core\\Todo.Core.csproj|d:\\projects\\vs 2022\\analys\\todo.core\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991A2ABA-8E7D-4434-A44E-40ABBF419263}|Todo.Core\\Todo.Core.csproj|solutionrelative:todo.core\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991A2ABA-8E7D-4434-A44E-40ABBF419263}|Todo.Core\\Todo.Core.csproj|d:\\projects\\vs 2022\\analys\\todo.core\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991A2ABA-8E7D-4434-A44E-40ABBF419263}|Todo.Core\\Todo.Core.csproj|solutionrelative:todo.core\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315A11A6-DA6C-4118-A52F-AFA730EA7814}|Todo.Core.Tests\\Todo.Core.Tests.csproj|d:\\projects\\vs 2022\\analys\\todo.core.tests\\todo.core.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{315A11A6-DA6C-4118-A52F-AFA730EA7814}|Todo.Core.Tests\\Todo.Core.Tests.csproj|solutionrelative:todo.core.tests\\todo.core.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3D4935-8D38-4539-95B0-12F8E2466B05}|Todo.SampleApp\\Todo.SampleApp.csproj|d:\\projects\\vs 2022\\analys\\todo.sampleapp\\todo.sampleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF3D4935-8D38-4539-95B0-12F8E2466B05}|Todo.SampleApp\\Todo.SampleApp.csproj|solutionrelative:todo.sampleapp\\todo.sampleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991A2ABA-8E7D-4434-A44E-40ABBF419263}|Todo.Core\\Todo.Core.csproj|d:\\projects\\vs 2022\\analys\\todo.core\\todo.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{991A2ABA-8E7D-4434-A44E-40ABBF419263}|Todo.Core\\Todo.Core.csproj|solutionrelative:todo.core\\todo.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".editorconfig.strict",
+              "DocumentMoniker": "D:\\Projects\\VS 2022\\Analys\\.editorconfig.strict",
+              "RelativeDocumentMoniker": ".editorconfig.strict",
+              "ToolTip": "D:\\Projects\\VS 2022\\Analys\\.editorconfig.strict",
+              "RelativeToolTip": ".editorconfig.strict",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-21T06:39:51.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".editorconfig.base",
+              "DocumentMoniker": "D:\\Projects\\VS 2022\\Analys\\.editorconfig.base",
+              "RelativeDocumentMoniker": ".editorconfig.base",
+              "ToolTip": "D:\\Projects\\VS 2022\\Analys\\.editorconfig.base",
+              "RelativeToolTip": ".editorconfig.base",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-21T06:39:26.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoListTests.cs",
+              "DocumentMoniker": "D:\\Projects\\VS 2022\\Analys\\Todo.Core.Tests\\TodoListTests.cs",
+              "RelativeDocumentMoniker": "Todo.Core.Tests\\TodoListTests.cs",
+              "ToolTip": "D:\\Projects\\VS 2022\\Analys\\Todo.Core.Tests\\TodoListTests.cs",
+              "RelativeToolTip": "Todo.Core.Tests\\TodoListTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:38:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoList.cs",
+              "DocumentMoniker": "D:\\Projects\\VS 2022\\Analys\\Todo.Core\\TodoList.cs",
+              "RelativeDocumentMoniker": "Todo.Core\\TodoList.cs",
+              "ToolTip": "D:\\Projects\\VS 2022\\Analys\\Todo.Core\\TodoList.cs",
+              "RelativeToolTip": "Todo.Core\\TodoList.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:37:40.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\Projects\\VS 2022\\Analys\\Todo.Core\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Todo.Core\\TodoItem.cs",
+              "ToolTip": "D:\\Projects\\VS 2022\\Analys\\Todo.Core\\TodoItem.cs",
+              "RelativeToolTip": "Todo.Core\\TodoItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:37:03.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Todo.Core.Tests",
+              "DocumentMoniker": "D:\\Projects\\VS 2022\\Analys\\Todo.Core.Tests\\Todo.Core.Tests.csproj",
+              "RelativeDocumentMoniker": "Todo.Core.Tests\\Todo.Core.Tests.csproj",
+              "ToolTip": "D:\\Projects\\VS 2022\\Analys\\Todo.Core.Tests\\Todo.Core.Tests.csproj",
+              "RelativeToolTip": "Todo.Core.Tests\\Todo.Core.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T06:35:23.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Todo.SampleApp",
+              "DocumentMoniker": "D:\\Projects\\VS 2022\\Analys\\Todo.SampleApp\\Todo.SampleApp.csproj",
+              "RelativeDocumentMoniker": "Todo.SampleApp\\Todo.SampleApp.csproj",
+              "ToolTip": "D:\\Projects\\VS 2022\\Analys\\Todo.SampleApp\\Todo.SampleApp.csproj",
+              "RelativeToolTip": "Todo.SampleApp\\Todo.SampleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T06:31:33.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Todo.Core",
+              "DocumentMoniker": "D:\\Projects\\VS 2022\\Analys\\Todo.Core\\Todo.Core.csproj",
+              "RelativeDocumentMoniker": "Todo.Core\\Todo.Core.csproj",
+              "ToolTip": "D:\\Projects\\VS 2022\\Analys\\Todo.Core\\Todo.Core.csproj",
+              "RelativeToolTip": "Todo.Core\\Todo.Core.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T06:17:54.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
