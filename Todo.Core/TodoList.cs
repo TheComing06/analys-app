@@ -1,14 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-// ---------------------------------------------------------------------------
+﻿// ---------------------------------------------------------------------------
 // <copyright file="TodoList.cs" company="NATK">
 // Copyright (c) NATK. All rights reserved.
 // </copyright>
 // ---------------------------------------------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Todo.Core
 {
@@ -22,21 +21,18 @@ namespace Todo.Core
             this.items.Add(item);
             return item;
         }
+
         public bool Remove(Guid id)
         {
             return this.items.RemoveAll(i => i.Id == id) > 0;
         }
+
         public IEnumerable<TodoItem> Find(string substring)
         {
             return this.items.Where(i =>
-            i.Title.Contains(substring ?? string.Empty,
-            StringComparison.OrdinalIgnoreCase));
+            i.Title.Contains(substring ?? string.Empty, StringComparison.OrdinalIgnoreCase));
         }
+
         public int Count => this.items.Count;
-
-        public static void Main(string[] args)
-        {
-
-        }
     }
 }
