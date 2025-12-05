@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Todo.Core</id>
+    <version>1.0.0</version>
+    <authors>Todo.Core</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="9e806dd24922e0b7a4e452acdac8007c4ba6bd30" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\VS 2022\Analys\Todo.Core\bin\Release\net8.0\Todo.Core.runtimeconfig.json" target="lib\net8.0\Todo.Core.runtimeconfig.json" />
+    <file src="D:\Projects\VS 2022\Analys\Todo.Core\bin\Release\net8.0\Todo.Core.dll" target="lib\net8.0\Todo.Core.dll" />
+  </files>
+</package>

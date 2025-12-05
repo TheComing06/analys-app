@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "VUaV5cN5VcI=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\VS 2022\\Analys\\Todo.Core\\Todo.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tabdr\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\9.0.0\\microsoft.codeanalysis.netanalyzers.9.0.0.nupkg.sha512",
+    "C:\\Users\\tabdr\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "No Authorization header detected"
+    }
+  ]
+}

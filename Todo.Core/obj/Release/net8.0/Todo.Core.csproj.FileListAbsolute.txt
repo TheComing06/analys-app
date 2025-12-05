@@ -1,0 +1,15 @@
+D:\Projects\VS 2022\Analys\Todo.Core\obj\Release\net8.0\Todo.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS 2022\Analys\Todo.Core\obj\Release\net8.0\Todo.Core.AssemblyInfoInputs.cache
+D:\Projects\VS 2022\Analys\Todo.Core\obj\Release\net8.0\Todo.Core.AssemblyInfo.cs
+D:\Projects\VS 2022\Analys\Todo.Core\obj\Release\net8.0\Todo.Core.csproj.CoreCompileInputs.cache
+D:\Projects\VS 2022\Analys\Todo.Core\obj\Release\net8.0\Todo.Core.sourcelink.json
+D:\Projects\VS 2022\Analys\Todo.Core\bin\Release\net8.0\Todo.Core.exe
+D:\Projects\VS 2022\Analys\Todo.Core\bin\Release\net8.0\Todo.Core.deps.json
+D:\Projects\VS 2022\Analys\Todo.Core\bin\Release\net8.0\Todo.Core.runtimeconfig.json
+D:\Projects\VS 2022\Analys\Todo.Core\bin\Release\net8.0\Todo.Core.dll
+D:\Projects\VS 2022\Analys\Todo.Core\bin\Release\net8.0\Todo.Core.pdb
+D:\Projects\VS 2022\Analys\Todo.Core\obj\Release\net8.0\Todo.Core.dll
+D:\Projects\VS 2022\Analys\Todo.Core\obj\Release\net8.0\refint\Todo.Core.dll
+D:\Projects\VS 2022\Analys\Todo.Core\obj\Release\net8.0\Todo.Core.pdb
+D:\Projects\VS 2022\Analys\Todo.Core\obj\Release\net8.0\Todo.Core.genruntimeconfig.cache
+D:\Projects\VS 2022\Analys\Todo.Core\obj\Release\net8.0\ref\Todo.Core.dll
